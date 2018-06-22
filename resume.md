@@ -1,4 +1,4 @@
-# <center><b>个人简历<b></center>
+# <center>个人简历</center>
 
 ------
 
