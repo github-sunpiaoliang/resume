@@ -14,11 +14,25 @@
 
 
 
+## 期望：
+
+1、期望工作地点： 沈阳
+
+2、期望薪资：面议
+
+3、目前状况：在职，可以随时离职。
+
+4、期望工作性质：全职
+
+5、期望从事行业：互联网
+
+
+
 ## 联系方式：
 
 邮箱：sunpeng@sunpiaoliang.cn 、sp121933039@gmail.com
 
-手机：152-4238-***5
+手机：152-4238-****
 
 微信：sp121933039
 
@@ -28,13 +42,15 @@
 
 语言：java，go
 
-框架：struts2 、springmvc、mybatis、springboot
+框架：struts2 、springmvc、mybatis、springboot、gin
 
 前端插件：jQuery、bootstrap、dataTable、ztree、icheck、layer、ckediteor、百度地图api
 
-数据库：oracle、mysql、达梦、elasticSearch
+数据库：oracle、mysql、达梦、elasticSearch、dgraph 图数据库
 
 虚拟化技术：docker
+
+操作系统：centos、ubuntu、windows
 
 版本控制：svn、git
 
@@ -42,7 +58,7 @@
 
 ## 正在研究技术和深入了解：
 
-正在研究，dgraph 图数据库，深入了解go
+正在研究，深入了解go，持续集成。
 
 
 
@@ -99,6 +115,14 @@
 ###### 7.部门项目改造
 
 ​	ssm（springmvc+mybatis）系统，前端更换，由自己封装的前端，改成H+前端框架，我负责改造用户管理页，用zTree 构造部门列表、用dataTable构造用户列表，用icheck  构造勾选角色。
+
+
+
+## 个人项目：
+
+###### 1.社交app （2019.01）
+
+​	社交app后台编写，这个是一个自我突破的项目，项目使用go语言编写，框架使用gin ，数据库使用mongo、构建的模块用jwt-go身份认证，关注与被关注模块使用dgraph图数据库，现学现用还是挺熬人的一个过程，但是提升比较大。
 
 
 
