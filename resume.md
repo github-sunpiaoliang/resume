@@ -10,7 +10,7 @@
 
 专科 / 沈阳北软信息职业技术学院 / 软件技术 /  2014-2017 
 
-工作年限： 2年
+工作年限： 3年
 
 
 
@@ -18,7 +18,7 @@
 
 1、期望工作地点： 沈阳
 
-2、期望薪资：7K-10K
+2、期望薪资：9K-12K
 
 3、目前状况：在职，可以随时离职。
 
@@ -40,27 +40,21 @@
 
 ## 掌握技术及会基本使用：
 
-语言：java，go
+语言：java，go, react
 
 框架：struts2 、springmvc、mybatis、springboot、gin、jwt-go、mgo
 
 前端插件：jQuery、bootstrap、dataTable、ztree、icheck、layer、ckediteor、百度地图api
 
-数据库：oracle、mysql、postgresql、达梦、elasticSearch、mongo、dgraph 图数据库
+数据库：oracle、mysql、mongo、dgraph 图数据库
 
-虚拟化技术：docker docker-compose
+虚拟化技术：docker、k8s
 
-操作系统：linux、windows
+操作系统：linux、windows、 Mac 
 
 版本控制：svn、git
 
-构建工具: ant、maven、gradle
-
-
-
-## 正在研究技术和深入了解：
-
-持续集成：Jenkins、drone
+使用过的构建工具: ant、maven、gradle
 
 
 
@@ -85,6 +79,20 @@
 ​	7）tomcat漏洞，处理，安全升级。
 
 ​	8）上线部署。
+
+
+
+###### 浙江联通多云平台（2020.6-至今）
+
+​	1）前期环境准备，搭建k8s集群，编写ansible脚本自动化部署docker，及k8s，搭建jenkins持续集成环境，整理成文档。
+
+​	2）编译20多个服务，构建基础docker镜像及部署k8s上。（服务语言包括 java、go、php、react、node）
+
+​	3）用react 编写前端购物车功能。
+
+​	4）添加多云纳管-aws服务，业务分析及表结构设计，aws接口调研。react前端页面编写，java后台api接口编写，及测试。
+
+​	
 
 
 
@@ -218,7 +226,7 @@
 
 - 热爱这个行业，对新的技术有较强的好奇心，比较喜欢有难度的挑战不断提高自己。
 
-- 兴趣爱好是研究一些比较新的技术，最近研究持续集成，下班后有空余的时间逛各大开源社区如GitHub、码云、开源中国等和一些大牛的博客，这是我了解新技术的一个途径。
+- 兴趣爱好是研究一些比较新的技术，下班后有空余的时间逛各大开源社区如GitHub、码云、开源中国等和一些大牛的博客，这是我了解新技术的一个途径。
 
 - 自我认为只要又时间没什么技术是学不会的。
 
