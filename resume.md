@@ -10,7 +10,7 @@
 
 专科 / 沈阳北软信息职业技术学院 / 软件技术 /  2014-2017 
 
-工作年限： 3年
+工作年限： 大于3年
 
 
 
@@ -18,13 +18,11 @@
 
 1、期望工作地点： 沈阳
 
-2、期望薪资：9K-12K
+2、期望薪资：8K-12K
 
-3、目前状况：在职，可以随时离职。
+3、目前状况：离职。
 
 4、期望工作性质：全职
-
-5、期望从事行业：互联网
 
 
 
@@ -40,17 +38,17 @@
 
 ## 掌握技术及会基本使用：
 
-语言：java，go, react
+语言：java，kotlin，go，react 
 
 框架：struts2 、springmvc、mybatis、springboot、gin、jwt-go、mgo
 
-前端插件：jQuery、bootstrap、dataTable、ztree、icheck、layer、ckediteor、百度地图api
+前端插件及组件：jQuery、bootstrap、dataTable、ztree、icheck、layer、ckediteor、百度地图api
 
-数据库：oracle、mysql、mongo、dgraph 图数据库
+数据库：oracle、mysql、mongo
 
 虚拟化技术：docker、k8s
 
-操作系统：linux、windows、 Mac 
+操作系统：linux、windows、 mac 
 
 版本控制：svn、git
 
@@ -60,21 +58,23 @@
 
 ## 工作经历：
 
-#### 东软集团（东软移动互联网）
+#### 东软集团（通信与企业互联商用中心东软移动互联网）
 
 
 
 ###### 浙江联通多云平台（2020.6-至今）
 
-​	1）前期环境准备，搭建k8s集群，编写ansible脚本自动化部署docker，及k8s，搭建jenkins持续集成环境，整理成文档。
+​	1）前期环境准备，搭建k8s集群，编写ansible脚本自动化部署docker，及k8s，搭建jenkins持续集成环境，整理成文档，及各个服务的编译（20多个），构建基础docker镜像及部署k8s上。（服务语言包括 java、go、php、react、node）
 
-​	2）编译20多个服务，构建基础docker镜像及部署k8s上。（服务语言包括 java、go、php、react、node）
+​	2）为了解决不能批量续费的问题，用react 编写前端购物车功能。
 
-​	3）用react 编写前端购物车功能。
+​	3）纳管-aws服务，业务分析及表结构设计，aws接口调研。react前端页面编写，java后台api接口编写，及测试。
 
-​	4）添加多云纳管-aws服务，业务分析及表结构设计，aws接口调研。react前端页面编写，java后台api接口编写，及测试。
+​		  云主机、虚拟私有云、子网、安全组、路由、弹性IP、密钥对等模块。
 
-​		  云主机、虚拟私有云、子网、安全组等模块。
+​	4）纳管-阿里服务，业务分析及表结构设计，阿里接口调研。业务上添加适配器及测试。
+
+​		  云主机、虚拟私有云、子网、安全组、路由、弹性IP、密钥对等模块。
 
 
 
