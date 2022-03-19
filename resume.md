@@ -38,7 +38,7 @@
 
 语言：java，kotlin，go，react 
 
-框架：struts2 、springmvc、mybatis、springboot、gin、jwt-go、mgo、jpa
+框架：struts2 、springmvc、mybatis、springboot、springcloud、gin、jwt-go、mgo、jpa
 
 数据库：oracle、mysql、mongo
 
