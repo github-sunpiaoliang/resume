@@ -127,11 +127,15 @@ CI/CD:  Jenkins、阿里云效
 
 ###### 宁德核电消防管理系统(2023.8-至今)
 
+使用技术：springboot、go-fast、mysql、mybatis、redis
+
  	1）消防队务管理服务
  	2）消防大数据服务
  	3）消防指挥服务
 
-###### 湘钢五米宽厚板虚挂监控 & 湘钢五米宽厚板天车监控 (2023.11 - 2024.6)
+###### 粗碎工序皮带撕裂监测 & 湘钢五米宽厚板虚挂监控 (2023.11 - 2024.6)
+
+使用技术：springboot、go-fast、h2database、mybatis、mqtt
 
  	1）用户管理、网关标签管理、视频推拉流、阈值前置后置处理
 
@@ -140,6 +144,8 @@ CI/CD:  Jenkins、阿里云效
 
 
 ###### 黄泥坳设备智能管控平台(2023.5-2023.8)
+
+使用技术：springboot、go-fast、h2database、mybatis、mqtt
 
 ​	1）设备配置、传感器配置、阈值配置
 
@@ -152,6 +158,8 @@ CI/CD:  Jenkins、阿里云效
 
 
 ###### 智慧冶金能耗管理平台(2023.4-2023.7)
+
+使用技术：springcloud、nacos、go-fast、mysql、mybatis、redis
 
 ​	1）能效分析：
 
@@ -167,6 +175,8 @@ CI/CD:  Jenkins、阿里云效
 
 ###### 废钢定级系统(2023.2-2023.4)
 
+使用技术：springcloud、nacos、go-fast、mysql、mybatis、redis
+
 ​	1）库区库位管理
 
 ​	2）车辆入场
@@ -177,6 +187,8 @@ CI/CD:  Jenkins、阿里云效
 
 ###### 招商局项目（2022.11-2023.2）
 
+使用技术：springcloud、consul、go-fast、mysql、mybatis、redis
+
 ​	1）项目管理、正式项目、战略项目、签约管理、预测信息、政策支持、现行政策、自定义政策、公司信息、经办信息、修改记录
 
 ​	2）项目审核
@@ -186,6 +198,8 @@ CI/CD:  Jenkins、阿里云效
 
 
 ###### 冶金工业互联网平台(2022.7-2023.1)
+
+使用技术：springcloud、nacos、go-fast、mysql、mybatis、redis
 
 ​	1）3D模型管理
 
