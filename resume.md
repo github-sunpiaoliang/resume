@@ -48,7 +48,7 @@
 
 虚拟化技术：docker、k8s
 
-操作系统：linux、windows、 mac 
+操作系统：mac、windows、linux等常见操作系统  
 
 版本控制：svn、git
 
